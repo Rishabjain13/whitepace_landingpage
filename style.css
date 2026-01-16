@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+.landingpage {
+    background-color: rgb(27, 35, 63);
+    color: white;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a{
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+
+}
+.login-btn{
+    color: white;
+    background-color: rgb(7, 35, 88);
+    padding: 10px 12px;
+    border: none;
+    cursor: pointer;
+
+}
+.register-btn{
+    color: white;
+    background-color: rgb(7, 35, 88);
+    padding: 10px 12px;
+    border: none;
+    cursor: pointer;
+
+}
+.head{
+    color: white;
+    background-color: rgb(27, 35, 63);
+    padding: 60px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.head-text{
+    color: white;
+    background-color: rgb(27, 35, 63);
+    width: 40%;
+
+}
+.head-img{
+    width: 500px;
+
+}
+.blue-btn{
+    color: white;
+    background-color: rgb(7, 35, 88);
+    border: none;
+    padding: 10px 12px;
+    cursor: pointer;
+}
+.section{
+    color: black;
+    padding: 60px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.text{
+    color: black;
+    width: 40%;
+
+}
+.section-img{
+    width: 400px;
+    
+}
